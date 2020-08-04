@@ -3,3 +3,7 @@ Experiment:
 Azure DevOps & Create React App : Build/Release Pipeline
 https://dev.azure.com/Rayneverge2023/build-deploy2(React-app with continiuous build)
 Using Visual studio Create and Publish
+
+
+Using KeyVaults and Azure functions
+https://daniel-krzyczkowski.github.io/Integrate-Key-Vault-Secrets-With-Azure-Functions/
