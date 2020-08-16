@@ -7,3 +7,6 @@ Using Visual studio Create and Publish
 
 Using KeyVaults and Azure functions
 https://daniel-krzyczkowski.github.io/Integrate-Key-Vault-Secrets-With-Azure-Functions/
+
+angular-app using akz and kubernetes under dev.azure using cicd to push image
+https://github.com/helios1989/angular-app-akz-kubernetes
