@@ -10,3 +10,11 @@ https://daniel-krzyczkowski.github.io/Integrate-Key-Vault-Secrets-With-Azure-Fun
 
 angular-app using akz and kubernetes under dev.azure using cicd to push image
 https://github.com/helios1989/angular-app-akz-kubernetes
+
+
+vue-vuex-vuetify-dockerize / https://github.com/helios1989/vue-vuex-vuetify-dockerize.git
+docker build -t dockerize-vue .
+docker run -it -p 8000:80 --rm dockerize-vue
+
+push to docker-hub
+reference: https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html
