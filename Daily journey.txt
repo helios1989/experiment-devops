@@ -3,8 +3,7 @@ after shift from work, I got a chance to review ai-100 and i learn some azure se
 achievable for developers to engage in AI and machine learning as lots of examples and even source code are also provided too.For conclusion on my next study in AI i will try provision a machine learning workspace and possibly deploy some usefull ai apps which is built  in CNF architechture. 
 
 August 22, 2020 ->
-learn some bash scripting and python scripts
-got a chance as well to play and deploy an app using fastapi
+it was saturday as usual after i wake up i do my basic stretching and exercise and started to switch on my computer to try and explore again my skills in docker,kubernetes and helm.I got a chance to achieve my goal to create a sample vue app using vuex and vuetify and publish this image to the dockerhub .
 
 
 August 23, 2020 =>
