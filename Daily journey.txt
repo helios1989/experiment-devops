@@ -1,6 +1,6 @@
 August 21, 2020 ->
 after shift from work, I got a chance to review ai-100 and i learn some azure services that can help me in my journey to AI.
-Learn new things from provisioning machine learning studio, use azure cognitive search, azure cognitive computer vision image classification, azure QNA framework for settings a chatbot and azure bot. On this journey it was fun experimenting and trying new things out of my boundary in my expertise but yeah its an investment. HEHHEhEHE
+Learn new things from provisioning machine learning studio, and use azure cognitive search, azure cognitive computer vision image classification, azure QNA framework for settings a chatbot and azure bot. On this journey it was fun experimenting and trying new things out of my boundary of expertise but yeah its an investment. HEHHEhEHE
 
 August 22, 2020 ->
 learn some bash scripting and python scripts
