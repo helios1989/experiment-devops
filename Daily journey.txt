@@ -1,0 +1,7 @@
+August 22, 2020 ->
+learn some bash scripting and python scripts
+got a chance as well to play and deploy an app using fastapi
+
+August 23, 2020 =>
+experiement and polish my skill  on kuberentes, docker and helm
+learn some new tools to automate things specially creating cluster, deploying, and publish without manifesting any dockerFile
