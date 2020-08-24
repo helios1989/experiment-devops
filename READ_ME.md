@@ -9,3 +9,8 @@ it was saturday as usual after i wake up i do my basic stretching and exercise a
 August 23, 2020 =>
 experiement and polish my skill  on kuberentes, docker and helm
 learn some new tools to automate things specially creating cluster, deploying, and publish without manifesting any dockerFile
+
+
+August 24, 2020 =>
+It was cramming and stressful day as i was expecting deliveries from UPS but didn't come through and i don't have chance to get a walk around. I just only did 20 pushup maybe tommorrow i can go 25 hehehehe or higher, hopefully. What i learn today was just python serialization and review OOP in javascript particularly instanceof and inherintance.
+
