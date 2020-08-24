@@ -12,5 +12,7 @@ learn some new tools to automate things specially creating cluster, deploying, a
 
 
 August 24, 2020 =>
-It was cramming and stressful day as i was expecting deliveries from UPS but didn't come through and i don't have chance to get a walk around. I just only did 20 pushup maybe tommorrow i can go 25 hehehehe or higher, hopefully. What i learn today was just python serialization and review OOP in javascript particularly instanceof and inherintance.
+It was cramming and stressful day as i was expecting deliveries from UPS but didn't come through and i don't have chance to get a walk around.Well if you talk about exercise for now I just only god 20 pushup maybe tommorrow i can go 25 hehehehe or higher, hopefully. What i learn today was just python serialization and  OOP in javascript particularly instanceof and prototype.
+
+
 
